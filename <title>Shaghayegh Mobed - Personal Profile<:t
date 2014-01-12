@@ -1,0 +1,79 @@
+     <title>Shaghayegh Mobed - Personal Profile</title>
+  
+  
+ 
+          <link rel="stylesheet" href="css/styles.css">
+          
+      </head>
+ 
+          <section class="page">
+              <header>
+                  <img src="https://pbs.twimg.com/profile_images/1430346862/IMG_3050.JPG">
+               
+                 <h1>Hello, My Name is <b>Shaghayegh Mobed</b></h1>
+              </header>
+          
+             <hr>
+  
+              <article>
+                  <h2>Work Experience</h2>
+                  <ul>
+                      <li>
+                         Operation Assistant Directior/Iranian Canadian Centre For Art and Culture.
+                      </li>
+                      <li>
+                         >Marketing Associate,Special Event Planner/Padika Online Marketing Solutions.
+                      </li>
+                  </ul>
+              </article>
+  
+              <article>
+                  <h2>Hobbies</h2>
+                  <ul>
+                      <li>
+                          Reading books.
+                      </li>
+                      <li>
+                          Watching movies.
+                      </li>
+                      <li>
+                          Shoping.
+                      </li>
+                  </ul>
+              </article>
+  
+              <article>
+                  <h2>Education</h2>
+                  <ul>
+                      <li>
+                          Event Management. Event & Exhibit Design,Post Graduate Certificate, Seneca College of Applied Arts and Technology
+                      </li>
+                                         <li>
+MBA, International Business, Carleton University
+                      </li>
+                                         <li>
+Bachelor, wood and paper industrial engineering,University of Tehran
+                      </li>
+                      
+                  </ul>
+              </article>
+              <hr>
+  
+              <article>
+                  <h2>Contact</h2>
+                  <ul>
+                      <li>
+                          Email me at: <a href="mailt:mobed.sh@gmail.com">alex@brainstation.it</a>.
+                      </li>
+                      
+                  </ul>
+              </article>
+  
+          </section>
+  
+          
+      </body>
+  </html>
+
+</body>
+</html>
